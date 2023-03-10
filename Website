@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The History of Nike</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="nike-logo.png" alt="Nike Logo">
+      </div>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">History</a></li>
+          <li><a href="https://www.nike.com/">Shop</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="hero">
+        <h1>The History of Nike</h1>
+        <p>Learn about the origins and evolution of the iconic brand.</p>
+        <img src="michael-jordan.jpg" alt="Michael Jordan wearing Nike shoes">
+      </section>
+
+      <section id="about">
+        <h2>About Nike</h2>
+        <p>Nike is an American multinational corporation that designs, develops, and sells footwear, apparel, and accessories. The company was founded on January 25, 1964, as Blue Ribbon Sports by Bill Bowerman and Phil Knight, and officially became Nike, Inc. on May 30, 1971.</p>
+      </section>
+
+      <section id="history">
+        <h2>The History of Nike</h2>
+        <p>Nike's history is marked by innovative designs, strategic marketing, and high-profile endorsements. In the 1980s, the company revolutionized the sneaker industry with the release of the Air Jordan line, which was endorsed by basketball superstar Michael Jordan.</p>
+        <p>Today, Nike is one of the world's largest suppliers of athletic shoes and apparel, with revenue of over $37 billion in 2020. The company's success is built on a strong brand identity and a commitment to innovation and sustainability.</p>
+        <p>To learn more about Nike's history, visit the <a href="https://www.nike.com/us/en_us/c/nike-history">Nike History</a> page on the company's website.</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Nike, Inc. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
 
