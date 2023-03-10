@@ -62,7 +62,8 @@ Copy code
 h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   color: #333;
-}
+
+  
 This code targets all of the heading elements (h1 through h6) and applies a font size of 24 pixels and a color of #333 (a dark gray).
 
 You can also use CSS to create layouts and positioning for different elements on the page. Here's an example of how to create a two-column layout using CSS:
